@@ -1,0 +1,1 @@
+{"version":3,"file":"collapseable.d.ts","sourceRoot":"","sources":["../src/collapseable.tsx"],"names":[],"mappings":"AAAA,OAAO,KAAK,KAAK,MAAM,OAAO,CAAC;AAE/B,UAAU,KAAK;IACX,KAAK,EAAE,MAAM,CAAA;CAChB;AAED,UAAU,KAAK;IACX,SAAS,EAAE,OAAO,CAAA;CACrB;AAED,qBAAa,YAAa,SAAQ,KAAK,CAAC,SAAS,CAAC,KAAK,EAAE,KAAK,CAAC;gBAC/C,KAAK,EAAE,KAAK;IAQxB,MAAM;CAWT"}
